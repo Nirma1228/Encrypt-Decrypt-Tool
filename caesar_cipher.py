@@ -1,3 +1,4 @@
+import argparse  # For handling command-line arguments
 def encrypt(text, shift):
     result = ""
     for char in text:
