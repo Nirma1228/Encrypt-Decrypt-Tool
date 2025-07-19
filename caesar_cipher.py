@@ -5,3 +5,6 @@ def encrypt(text, shift):
             base = ord('A') if char.isupper() else ord('a')
             shifted = (ord(char) - base + shift) % 26 + base
             result += chr(shifted)
+        else:
+            result += char
+    return result
