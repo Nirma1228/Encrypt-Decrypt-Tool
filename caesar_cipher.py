@@ -21,3 +21,10 @@ if choice.lower() == 'e':
     shift_value = int(input("Enter the shift value (number): "))
     encrypted = encrypt(plain_text, shift_value)
     print(f" Encrypted Text: {encrypted}")
+
+elif choice.lower() == 'd':
+    cipher_text = input("Enter the text to decrypt: ")
+    shift_value = int(input("Enter the shift value used during encryption: "))
+    decrypted = decrypt(cipher_text, shift_value)
+    print(f" Decrypted Text: {decrypted}")
+else:
