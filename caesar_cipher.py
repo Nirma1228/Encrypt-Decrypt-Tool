@@ -11,3 +11,7 @@ def encrypt(text, shift):
 
 def decrypt(cipher_text, shift):
     return encrypt(cipher_text, -shift)
+
+# Command-line interface
+print("🔐 Caesar Cipher Tool 🔐")
+choice = input("Do you want to (e)ncrypt or (d)ecrypt? ")
