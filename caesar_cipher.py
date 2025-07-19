@@ -12,6 +12,7 @@ def encrypt(text, shift):
             result += char
     return result
 
+# Function to decrypt text
 def decrypt(cipher_text, shift):
     return encrypt(cipher_text, -shift)
 
