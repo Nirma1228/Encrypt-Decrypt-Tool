@@ -28,3 +28,4 @@ elif choice.lower() == 'd':
     decrypted = decrypt(cipher_text, shift_value)
     print(f" Decrypted Text: {decrypted}")
 else:
+     print("❌ Invalid option. Please choose 'e' or 'd'.")
