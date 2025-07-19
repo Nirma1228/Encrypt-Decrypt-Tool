@@ -4,7 +4,7 @@ import argparse  # For handling command-line arguments
 def encrypt(text, shift):
     result = ""
     for char in text:
-        if char.isalpha():
+        if char.isalpha():   # Encrypt only alphabet characters
             base = ord('A') if char.isupper() else ord('a')
             shifted = (ord(char) - base + shift) % 26 + base
             result += chr(shifted)
