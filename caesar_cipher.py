@@ -1,4 +1,6 @@
 import argparse  # For handling command-line arguments
+
+# Function to encrypt text using Caesar Cipher
 def encrypt(text, shift):
     result = ""
     for char in text:
