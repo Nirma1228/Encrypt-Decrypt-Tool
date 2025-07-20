@@ -21,6 +21,6 @@ Example:
 
 ## 🛠️ How to Use
 
-### 1️⃣ Encrypt
+###  Encrypt
 
 python caesar_cipher.py encrypt "Hello World!" 3
