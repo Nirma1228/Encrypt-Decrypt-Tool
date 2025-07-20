@@ -18,3 +18,5 @@ Example:
 - ✅ Command-line interface (CLI)
 - ✅ Works with both uppercase and lowercase letters
 - ✅ Non-letter characters (numbers, symbols) stay unchanged
+
+## 🛠️ How to Use
