@@ -20,3 +20,8 @@ Example:
 - ✅ Non-letter characters (numbers, symbols) stay unchanged
 
 ## 🛠️ How to Use
+
+### 1️⃣ Encrypt
+
+```bash
+python caesar_cipher.py encrypt "Hello World!" 3
