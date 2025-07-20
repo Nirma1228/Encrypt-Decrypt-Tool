@@ -10,3 +10,7 @@ Example:
 - Text: `HELLO`  
 - Shift: `3`  
 - Result: `KHOOR`
+
+## 🚀 Features
+
+- ✅ Encrypt any text using Caesar cipher
