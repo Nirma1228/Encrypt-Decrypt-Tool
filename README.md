@@ -13,11 +13,11 @@ Example:
 
 ## 🚀 Features
 
-- ✅ Encrypt any text using Caesar cipher
-- ✅ Decrypt text back to original
-- ✅ Command-line interface (CLI)
-- ✅ Works with both uppercase and lowercase letters
-- ✅ Non-letter characters (numbers, symbols) stay unchanged
+-  Encrypt any text using Caesar cipher
+-  Decrypt text back to original
+-  Command-line interface (CLI)
+-  Works with both uppercase and lowercase letters
+-  Non-letter characters (numbers, symbols) stay unchanged
 
 ## 🛠️ How to Use
 
