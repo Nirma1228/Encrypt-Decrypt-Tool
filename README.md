@@ -23,5 +23,4 @@ Example:
 
 ### 1️⃣ Encrypt
 
-```bash
 python caesar_cipher.py encrypt "Hello World!" 3
