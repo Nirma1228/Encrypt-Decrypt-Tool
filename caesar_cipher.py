@@ -1,4 +1,4 @@
-import argparse  # For handling command-line arguments
+import argparse  
 
 # Function to encrypt text using Caesar Cipher
 def encrypt(text, shift):
